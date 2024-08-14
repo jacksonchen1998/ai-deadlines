@@ -13,6 +13,21 @@
   sub: ['ML', 'DM', 'KR']
   note: Abstract deadline on Sep 04, 2024. More info <a href='https://logconference.org'>here</a>. 
 
+- title: ICLR
+  year: 2025
+  id: iclr25
+  link: https://iclr.cc/Conferences/2025
+  deadline: '2024-10-01 23:59:59'
+  abstract_deadline: '2024-09-27 23:59:59'
+  timezone: UTC-12
+  place: EXPO, Singapore
+  date: May 07-11, 2024
+  start: 2025-04-24
+  end: 2025-04-28
+  hindex: 304
+  sub: ML
+  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
+
 - title: ECIR
   year: 2025
   id: ecir25
